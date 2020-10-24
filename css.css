@@ -1,0 +1,19 @@
+body {background-color: black}
+h4 {color:green }
+ a:link, a:visited{background-color:green;
+                   color:white;
+                   padding:15px 25px;
+                   text-align:center;
+                   text-decoration:none;
+                   display:inline-block;}
+ a:hover{background-color:trransparent;
+        color:black;
+        text-decoration:black overline underline;}
+ a:active {color: wheat;
+           background-color: transparent;
+           text-decoration:wheat underline;}
+body{background-image:url(the_matrix_hallway_720.gif);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;}
+#font35px{font-size:35px ;}
